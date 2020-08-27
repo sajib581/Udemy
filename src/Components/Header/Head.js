@@ -80,8 +80,8 @@ const Head = () => {
               Search
             </button>
           </form>
-          <button type="button" class="btn btn-info ml-5">Login</button>
-          <button type="button" class="btn btn-success mx-3">Sign Up</button>
+          <button type="button" className="btn btn-info ml-5">Login</button>
+          <button type="button" className="btn btn-success mx-3">Sign Up</button>
         </div>
       </nav>
     </div>

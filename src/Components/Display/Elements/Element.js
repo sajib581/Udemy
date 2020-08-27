@@ -13,7 +13,7 @@ const Element = (props) => {
                 <p id="trainer"><small>{trainer}</small></p>
                 <h5>${price}</h5>
                 <p><small><strong><span className="bestseller">{quality}</span></strong></small></p>
-                <button className="btn btn-primary">Enroll Now</button>
+                <button onClick={()=>props.cartHandeler(props.data)} className="btn btn-primary">Enroll Now</button>
             </div>
         </div>
     );

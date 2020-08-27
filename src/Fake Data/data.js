@@ -65,7 +65,7 @@ const data = [
         id: 7
     },
     {
-        title : "C++: From Beginner to Expert with Competitive Programming" ,
+        title : "C++: Competitive Programming A-Z" ,
         price : 25.50,
         details : "Designed for people who don't have any knowledge about the programming and want to program in C++",
         trainer : "Richerd shilt",
