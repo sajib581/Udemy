@@ -1,0 +1,24 @@
+.element {
+    margin: 15px;
+    height: 380px;
+    width: 280px;
+}
+
+.element img {
+    width: 100%;
+}
+
+#trainer {
+    margin-bottom: 0px;
+}
+
+.bestseller {
+    background-color: #ffe799;
+    color: #593d00;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+h6 {
+    margin-top: 5px !important;
+}
